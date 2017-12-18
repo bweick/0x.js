@@ -1,5 +1,9 @@
 # CHANGELOG
 
+v0.x.x - _TBD, 2017_
+------------------------
+    * Rename `SubscriptionOpts` to `BlockRange` (#272)
+
 v0.27.1 - _November 28, 2017_
 ------------------------
     * Export `TransactionOpts` type
